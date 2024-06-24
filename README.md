@@ -78,9 +78,9 @@ The frontend application will run on http://localhost:3001.
 
 The backend provides RESTful APIs for managing blog posts. It includes routes for:
 
-- POST /blogs: Create a new blog post.
-- GET /blogs: Retrieve all blog posts.
-- GET /blogs/:id: Retrieve a blog post by ID.
+- POST `/blogs`: Create a new blog post.
+- GET `/blogs`: Retrieve all blog posts.
+- GET `/blogs/:id`: Retrieve a blog post by ID.
 
 ### Frontend - (ReactJS, Tailwind CSS, Material-UI)
 
